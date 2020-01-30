@@ -1,2 +1,2 @@
-# prime
+# Prime
 Prime number extraction
