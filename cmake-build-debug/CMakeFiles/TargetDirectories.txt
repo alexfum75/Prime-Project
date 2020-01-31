@@ -1,0 +1,1 @@
+/home/pariai99/Clion/cmake-build-debug/src/CMakeFiles/Prime.dir

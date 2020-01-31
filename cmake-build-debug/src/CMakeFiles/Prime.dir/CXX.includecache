@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.3ARdqGK3Ao/src/prime.cpp
+iostream
+-
+sys/utsname.h
+-
+stdio.h
+-
+stdlib.h
+-
+set
+-
+

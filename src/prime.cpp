@@ -26,8 +26,9 @@ int main() {
     num.insert(10);
     num.insert(20);
     cout << "Test C++11" << endl;
-    for (set<int>::iterator it = num.begin(); it != num.end(); ++it) {
-        cout << (*it) << endl;
+    //for (set<int>::iterator it = num.begin(); it != num.end(); ++it) {
+    for (auto it = num.begin(); it != num.end(); ++it) {
+        cout << "Val: " << (*it) << endl;
     }
 
     struct utsname name;
