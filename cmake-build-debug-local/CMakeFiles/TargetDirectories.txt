@@ -1,5 +1,0 @@
-/home/itam/CLionProjects/prime/prime/cmake-build-debug-local/CMakeFiles/rebuild_cache.dir
-/home/itam/CLionProjects/prime/prime/cmake-build-debug-local/CMakeFiles/edit_cache.dir
-/home/itam/CLionProjects/prime/prime/cmake-build-debug-local/src/CMakeFiles/rebuild_cache.dir
-/home/itam/CLionProjects/prime/prime/cmake-build-debug-local/src/CMakeFiles/Prime.dir
-/home/itam/CLionProjects/prime/prime/cmake-build-debug-local/src/CMakeFiles/edit_cache.dir

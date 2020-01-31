@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/Prime.dir/prime.cpp.o  -o Prime 
