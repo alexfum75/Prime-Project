@@ -4,6 +4,9 @@
 cmake_minimum_required (VERSION 2.8.11)
 project (PRIME)
 
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set (CMAKE_CXX_STANDARD 11)
+
 # Recurse into the "Hello" and "Demo" subdirectories. This does not actually
 # cause another cmake executable to run. The same process will walk through
 # the project's entire directory structure.
