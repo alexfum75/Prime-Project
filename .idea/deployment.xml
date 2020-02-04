@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Remote Host (5f7238dc-a378-4369-8f43-500e490628db)">
+  <component name="PublishConfigData" serverName="192.168.50.10 (4738464a-ad25-4c1a-99d5-ee8f0a1d9ae3)">
     <serverData>
-      <paths name="192.168.50.10">
+      <paths name="192.168.50.10 (4738464a-ad25-4c1a-99d5-ee8f0a1d9ae3)">
         <serverdata>
           <mappings>
-            <mapping deploy="/wslocal/prime" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="Remote Host (5f7238dc-a378-4369-8f43-500e490628db)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/tmp.tz1a5wRpq7" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.rSs3Q7mL3g" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-host" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-1921685010" />
           </excludedPaths>
         </serverdata>
       </paths>
