@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" serverName="Remote Host (5f7238dc-a378-4369-8f43-500e490628db)">
     <serverData>
-      <paths name="Remote GDB Server (199c4dbe-69ec-4bc5-a56b-ae190da0b98c)">
+      <paths name="192.168.50.10">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/wslocal/prime" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="Remote Host (5507bf55-b757-4156-b96d-9e83f4795bbd)">
+      <paths name="Remote Host (5f7238dc-a378-4369-8f43-500e490628db)">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/pariai99/Clion" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.tz1a5wRpq7" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-host" />
           </excludedPaths>
         </serverdata>
       </paths>
