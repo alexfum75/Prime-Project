@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="192.168.50.10 (4738464a-ad25-4c1a-99d5-ee8f0a1d9ae3)">
+  <component name="PublishConfigData" autoUpload="Always" filePermissions="420" folderPermissions="493">
     <serverData>
-      <paths name="192.168.50.10 (4738464a-ad25-4c1a-99d5-ee8f0a1d9ae3)">
+      <paths name="Remote Host (5507bf55-b757-4156-b96d-9e83f4795bbd)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.rSs3Q7mL3g" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/vagrant" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-1921685010" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
           </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
